@@ -1,2 +1,1 @@
-"# expos-"  
-"# expos-" 
+"# exposé sur Sqoop"
